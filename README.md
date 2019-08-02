@@ -1,2 +1,2 @@
 # MsFaceApi
-MicroSoft Face Api for video
+Microsoft Face Api for video
