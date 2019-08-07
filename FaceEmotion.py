@@ -3,8 +3,6 @@ import cv2
 import os
 import numpy as np
 
-
-
 # Replace with a valid subscription key (keeping the quotes in place).
 KEY = '109ed867d2ec4525b21c6084239c232e'
 CF.Key.set(KEY)
@@ -43,6 +41,7 @@ while True:
             i += 1
         cntEmo[maxEmo] += 1
         maxVal = 0
+        
 facelist = ['anger', 'contempt', 'disgust', 'fear', 'happiness', 'neutral', 'sadness', 'surprise']
 maxVal = 0
 res = 'anger'
