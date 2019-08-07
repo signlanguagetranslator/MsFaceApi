@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Replace with a valid subscription key (keeping the quotes in place).
-KEY = '109ed867d2ec4525b21c6084239c232e'
+KEY = 'mykey'
 CF.Key.set(KEY)
 
 # Replace with your regional Base URL
